@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components/native';
 import {useAppContext} from '../../providers/AppProvider';
-import Logo from './logo.svg';
+import Logo from './Logo';
 
 const ContentWrapper = styled.View`
   flex-direction: column;
